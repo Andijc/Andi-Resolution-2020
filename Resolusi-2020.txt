@@ -1,5 +1,5 @@
 Resolusi 2020 - Business
-- Konsisten menyisihkan waktu untuk belajar Web Development melalui video 2 jam setiap hari.
+- Konsisten menyisihkan waktu untuk belajar Web Development melalui video 1 jam setiap hari.
 - Mampu membuat Front End dan back End sendiri
 - Mempunyai 1 tim baru untuk Web project selain tim yang sudah ada
 - Mempunyai 2 klien baru
