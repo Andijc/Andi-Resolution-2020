@@ -3,6 +3,7 @@ RENCANA KONTEN 2020
  - Video mengenai Javascript
    * ES6
    * Framework Javascript
+   * Basic Data Structure
  - Video mengenai PHP Frameworks
  - Interviews
  - Vlogs
