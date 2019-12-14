@@ -1,0 +1,8 @@
+RENCANA KONTEN 2020
+
+ - Video mengenai Javascript
+   * ES6
+   * Framework Javascript
+ - Video mengenai PHP Frameworks
+ - Interviews
+ - Vlogs
