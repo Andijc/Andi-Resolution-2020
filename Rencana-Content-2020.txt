@@ -4,6 +4,7 @@ RENCANA KONTEN 2020
    * ES6
    * Framework Javascript
      > Vue
+     > React
  - Basic Data Structure
  - Video mengenai PHP Frameworks
      > Laravel
